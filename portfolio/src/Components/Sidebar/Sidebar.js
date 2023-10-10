@@ -3,12 +3,13 @@ import "./Sidebar.css"
 import Home from '../Home/Home'
 import { BsChevronLeft, } from "react-icons/bs";
 import { BsChevronRight, } from "react-icons/bs";
+import SideBarList from './SideBarList';
 
 const Sidebar = () => {
 
-    const [expandSideBar, setExtandSideBar] = useState(true)
+    const [expandSideBar, setExtandSideBar] = useState(true);
     const handleClick = () => {
-        setExtandSideBar(!expandSideBar)
+        setExtandSideBar(!expandSideBar);   
     }
 
 
@@ -26,7 +27,8 @@ const Sidebar = () => {
                     ) }
                 </p>
             </div>
-                    
+            <SideBarList expandSideBar={expandSideBar} />
+     
 
         </div>
 
