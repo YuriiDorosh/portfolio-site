@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
-import "./Sidebar.css"
-import Home from '../Home/Home'
+import React, { useState } from 'react';
+import "./Sidebar.css";
+import Home from '../Home/Home';
 import { BsChevronLeft, } from "react-icons/bs";
 import { BsChevronRight, } from "react-icons/bs";
 import SideBarList from './SideBarList';
