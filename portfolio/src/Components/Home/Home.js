@@ -34,11 +34,6 @@ const Home = ({theme, changeTheme}) => {
 
         <div className="button-for-action">
           <div className="hire-me-button"><Link to="contact" spy={true} offset={-200}>Hire me</Link></div>
-          <div className="get-resume-button">
-            {/* <a href={MyCV} download="My_Resume.pdf"> */}
-              Get Resume
-            {/* </a> */}
-          </div>
         </div>
       </div>
     </div>

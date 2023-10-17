@@ -17,8 +17,7 @@
   .button-for-action {
     display: flex;
   }
-  .hire-me-button,
-  .get-resume-button {
+  .hire-me-button {
     background-color: #ff854c;
     text-align: center;
     width: 180px;
