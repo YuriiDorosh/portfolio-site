@@ -25,23 +25,27 @@ const About = () => {
             </div>
             {/* <Fade bottom> */}
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              Aliquam malesuada bibendum arcu vitae elementum. Morbi tempus
-              iaculis urna id. Quis auctor elit sed vulputate mi sit amet. Elit
-              ullamcorper dignissim cras tincidunt lobortis. Amet aliquam id
-              diam maecenas ultricies. Volutpat odio facilisis mauris sit. Risus
-              viverra adipiscing at in tellus integer feugiat scelerisque.
-              Pulvinar sapien et ligula ullamcorper malesuada proin libero.
-              Morbi tincidunt augue interdum velit euismod in. Sit amet
-              porttitor eget dolor morbi non arcu risus quis. Adipiscing vitae
-              proin sagittis nisl rhoncus mattis rhoncus urna neque. Orci eu
-              lobortis elementum nibh tellus molestie nunc non. Dictum sit amet
-              justo donec enim. Urna duis convallis convallis tellus id. Dolor
-              purus non enim praesent elementum facilisis leo. Ipsum dolor sit
-              amet consectetur adipiscing. Lectus arcu bibendum at varius vel
-              pharetra vel turpis nunc. Amet est placerat in egestas erat
-              imperdiet sed euismod.
+            I am actively exploring Python, particularly its libraries and frameworks.
+            <br></br>
+            My experience spans a range of projects, including web applications using:<br></br> Django, DRF,
+            Django Ninja, FastAPI,<br></br>
+            desktop applications with<br></br> Tkinter and CustomTkinter,<br></br>
+            Telegram bots using aiogram2,<br></br>
+            web scraping powered by BeautifulSoup and Selenium,<br></br>
+            and automation scripts.<br></br>
+            Additionally, I have experience in programming microcontrollers with MicroPython.<br></br><br></br>
+            My skill set extends to basic DevOps capabilities,<br></br>
+            including Linux proficiency,<br></br>
+            deploying Telegram bots using Docker and daemon processes,<br></br>
+            and writing Bash scripts for backup purposes.<br></br><br></br>
+            I have small non-commercial teams experience,
+            I served as the lead developer on a Django templates website project<br></br>
+            and as a DevOps engineer,<br></br> deploying a Telegram bot on a VPS,
+            creating daemon files, Docker files, Bash scripts,
+            and managing the project repository on GitHub.<br></br><br></br>
+            In my short experience, I have worked with various databases,<br></br>
+            primarily PostgreSQL, SQLite, and
+            MongoDB (in conjunction with FastAPI).
             </p>
             {/* </Fade> */}
           </div>
