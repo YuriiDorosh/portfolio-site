@@ -48,11 +48,6 @@ const SideBarList = ({expandSideBar}) => {
                 <FcTodoList size={25} /> Projects
               </Link>
             </li>
-            <li className="nav-item">
-              <Link to="contact" spy={true} offset={-450}>
-                <FcContacts size={25} /> Contacts
-              </Link>
-            </li>
           </ul>
 
         </div>
