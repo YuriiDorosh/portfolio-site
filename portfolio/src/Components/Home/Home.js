@@ -1,7 +1,6 @@
 import React from "react";
 import "./Home.css";
 import Typewriter from "typewriter-effect";
-// import MyCV from "./cv.pdf";
 import { BsFillMoonFill, BsFillSunFill } from 'react-icons/bs';
 import { Link } from "react-scroll";
 
